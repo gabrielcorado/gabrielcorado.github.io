@@ -1,6 +1,7 @@
 name: gabrielcorado
 description: Full-stack developer
 meta_description: "Gabriel Corado, full-stack developer"
+gems: [jekyll-paginate]
 
 aboutPage: true
 
@@ -9,13 +10,13 @@ highlighter: pygments
 
 paginate: 20
 baseurl: /
-domain_name: 'http://yourblog-domain.com'
+domain_name: 'http://gabrielcorado.github.io/'
 google_analytics: 'UA-XXXXXXXX-X'
 disqus: false
 disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
-url:            'http://your-blog-url.example.com'
+url:            'http://gabrielcorado.github.io/'
 author:         'Gabriel Corado'
 
 # Posts permalink
