@@ -1,0 +1,16 @@
+---
+title: Where to Start?
+date: 2016-06-17 10:00 -0300
+descriptions: First post!!!
+---
+
+Hello, for who do not know me I am Gabriel Corado a Full Stack Software Engineer and I am here to start doing something that I was waiting (no real reason why) to start that is write posts related to new technologies and experiences in the IT world. Before, just a simple introduction about me and the topic: I work with software development since I was 15 years old but, I did not have a change with doing **freelancing**. So, this post is dedicated to what I could do to have more chances in this field. And now time is over for the “I’s” in this post, let’s start it.
+
+The first thing that we must have clear in our minds is what is **freelance**, so just asked Google about it (the famous define) and get the results: *“working for different companies at different times rather than being permanently employed by one company”*. So, at first view it do not sounds a good thing, because maybe none company is interested in you and then you have to work “temporarily” in different projects. Or, sometimes it is just a complementary job that you accept.
+
+The question that do not leave our minds is: Is it possible to have a great economical life just with **freelance** jobs. The answer is the famous *“it depends”* but, depends on what? Well, let's go through two main points: First, as a freelancer you have to find jobs and it is a problem because a network of possible customers is necessary and it demands time and experience in the labor market to create it. Second, because the freelancers are alone they have to perform all the roles of a company and for people that are not **multidisciplinary**, this will be a big problem.
+
+But wait, not everything is bad in a **freelancer life**. To give an example let’s take a look at this situation: A developer **freelancer** with no experience in freelancing got your first job. He had a bunch of problems during the process that his was not familiar with, stuff like talking directly to the stakeholders and giving support to the final customers, but at the end everything was fine and our guy received his money correctly. Everything great, right? Right! But there is more than the payment itself and the experience gained in this situation, our freelancer showed to the world that he was capable to do freelance, and his customer will probably call him for the next time, and more they will tell others that he is a reliable person and then our happy freelancer will increase his network. So, if you take a look at this situation our freelancer could have a great economical life just doing freelancing but, not in its early stages.
+
+So, what if exists a **global network of freelancers** where people goes directly to it and ask what they need. Will be great, right? And this networks will solve basically the two problems stated earlier, because they will be responsible to talking to the final customer and also they will provide you a huge network. And so on, the freelancers in what we really love to do that is create software, not losing time in other areas. The answer of the question below will be, for the freelancers that are part of these global networks, of course it is possible even for the inexperienced ones. Lucky are the guys that are part of these networks.
+
